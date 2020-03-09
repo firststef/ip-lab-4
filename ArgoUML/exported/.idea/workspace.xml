@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65eaba0b-2a12-4b62-9d6e-60ac809ccba9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../UmlShoppingApp.zargo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP LAB 4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IP LAB 4/Checkout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IP LAB 4/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IP LAB 4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IP LAB 4/Manager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IP LAB 4/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IP LAB 4/ShoppingCart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IP LAB 4/paymentMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Checkout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/paymentMethod.java" afterDir="false" />
-    </list>
+    <list default="true" id="65eaba0b-2a12-4b62-9d6e-60ac809ccba9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -226,8 +205,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583738326278" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583738884354" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Decompiled" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -269,7 +248,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25358167" />
